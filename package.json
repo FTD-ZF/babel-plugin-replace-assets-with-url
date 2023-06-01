@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-replace-assets-with-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "taro",
+    "weapp",
+    "h5"
+  ],
+  "files": [
+    "index.js",
+    "readme.md",
+    "package.json",
+    "LICENSE"
+  ],
+  "author": "FTD-ZF",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.22.1"
+  }
+}
